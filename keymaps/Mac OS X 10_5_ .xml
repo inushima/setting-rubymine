@@ -4,4 +4,5 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
+  <action id="Switcher" />
 </keymap>
