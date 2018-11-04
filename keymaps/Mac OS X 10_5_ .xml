@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="Diff.ShowDiff" />
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="ExportToTextFile" />
   <action id="FileChooser.GotoDesktop" />
@@ -25,6 +28,7 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="Switcher" />
+  <action id="TypeHierarchy" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
