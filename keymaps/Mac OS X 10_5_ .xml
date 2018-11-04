@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
   <action id="ExportToTextFile" />
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoChangedFile" />
