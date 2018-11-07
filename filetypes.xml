@@ -1,8 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env.test.local" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
