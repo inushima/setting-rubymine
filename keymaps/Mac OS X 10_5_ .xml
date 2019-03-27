@@ -7,22 +7,11 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="Diff.ShowDiff" />
-  <action id="EditorDelete">
-    <keyboard-shortcut first-keystroke="ctrl d" />
-  </action>
   <action id="EditorDuplicate" />
-  <action id="EditorPreviousWord">
-    <keyboard-shortcut first-keystroke="ctrl left" />
-  </action>
   <action id="ExportToTextFile" />
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
-  <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="meta button1" />
-    <mouse-shortcut keystroke="button2" />
-    <keyboard-shortcut first-keystroke="meta t" />
-  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
@@ -36,8 +25,6 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="Switcher" />
-  <action id="TypeHierarchy" />
-  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>

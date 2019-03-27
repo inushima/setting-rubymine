@@ -1,5 +1,15 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="BaseOnThisFunction" />
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Console.TableResult.Reload" />
   <action id="Debug" />
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -10,9 +20,17 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="ExportToTextFile" />
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="GotoNextError" />
   <action id="NextEditorTab" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
@@ -22,9 +40,27 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.UpdateProject" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+  <action id="hg4idea.QRefresh" />
+  <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
 </keymap>
